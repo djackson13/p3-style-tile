@@ -4,10 +4,10 @@ h2, h3, p {
 }
 
 /* Layout for Style Tile*/
-body p {
+body {
 	font-family: "lexia";
-	font-weight: light;
 }
+
 section {
 	margin: 20px 0;
 }
