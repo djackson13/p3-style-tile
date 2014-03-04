@@ -20,8 +20,24 @@ section {
 	height: 50px;
 	width: 50px;
 }
-
-
+.color-1 {
+	background-color: #D12229;
+}
+.color-2 {
+	background-color: #6D6E70;
+}
+.color-3 {
+	background-color: black;
+}
+.pattern-1 {
+	background: url("../img/tweed.png");
+}
+.pattern-2 {
+	background: url("../img/binding.png");
+}
+.pattern-3 {
+	background: url("../img/fabric.png");
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
