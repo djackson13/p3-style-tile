@@ -7,7 +7,9 @@ h2, h3, p {
 body {
 	font-family: "lexia";
 }
-
+h1, h2 {
+	font-family: "proxima-nova-alt-ext-cond";
+}
 section {
 	margin: 20px 0;
 }
