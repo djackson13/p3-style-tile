@@ -4,6 +4,10 @@ h2, h3, p {
 }
 
 /* Layout for Style Tile*/
+body p {
+	font-family: "lexia";
+	font-weight: light;
+}
 section {
 	margin: 20px 0;
 }
@@ -38,6 +42,7 @@ section {
 .pattern-3 {
 	background: url("../img/fabric.png");
 }
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
