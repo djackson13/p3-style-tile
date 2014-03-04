@@ -9,7 +9,15 @@ body {
 }
 h1, h2 {
 	font-family: "proxima-nova-alt-ext-cond";
-	font-variant: small-caps;
+}
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 2.5em;
+}
+h3 {
+	font-size: 2em;
 }
 section {
 	margin: 20px 0;
